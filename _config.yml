@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+
+docs:
+
+- title: Home
+  url: home.md
+
+- title: Books
+  url: books.md
